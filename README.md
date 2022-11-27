@@ -1,2 +1,1 @@
-# django-to-do-list
-# django-practice
+# django-practice-project
